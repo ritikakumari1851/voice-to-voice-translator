@@ -1,6 +1,0 @@
-gradio
-assemblyai
-translate
-elevenlabs==1.5.0
-numpy
-python-dotenv
