@@ -1,0 +1,8 @@
+.mp3
+/__pycache__
+.DS_Store
+/flags
+.env
+__pycache__/
+*.pyc
+node_modules/
